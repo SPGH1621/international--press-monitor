@@ -1,0 +1,10 @@
+{
+  "channel": "demagazinesharing",
+  "last_checked_at": null,
+  "last_success_at": null,
+  "status": "not_started",
+  "error": null,
+  "pages_fetched": 0,
+  "messages_scanned": 0,
+  "items": []
+}
